@@ -1,0 +1,14 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="snapBg" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#163F32"/>
+      <stop offset="100%" stop-color="#081914"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#snapBg)"/>
+  <rect x="1.5" y="1.5" width="125" height="125" rx="28.5" stroke="rgba(246,242,234,0.22)" stroke-width="3"/>
+  <path d="M90 78A32 32 0 1 1 82 36" stroke="#F6F2EA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M84 22L85 40L68 41" stroke="#F6F2EA" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 64A18 18 0 0 1 78 52" stroke="#10B981" stroke-width="8.5" stroke-linecap="round"/>
+  <circle cx="64" cy="64" r="8.5" fill="#E84A27"/>
+</svg>

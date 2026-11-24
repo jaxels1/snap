@@ -1,8 +1,14 @@
+<p align="left">
+  <img src="./assets/logo.svg" alt="snap" width="56" height="56" />
+</p>
+
 # snap
 
 Silent per-turn shadow checkpoints for AI coding agents — rewind bad agent edits in one command without touching `git status`, `git log`, or `git stash`.
 
 Zero third-party dependencies. Pure Python 3 stdlib + Git plumbing (`refs/snap/*`).
+
+![snap demo](./assets/demo.gif)
 
 ## Why not `git stash`?
 
