@@ -1,0 +1,16 @@
+{
+  "snap": {
+    "PreToolUse": [
+      {
+        "matcher": "write_file|edit_file|replace_file_content|multi_replace_file_content|run_command|Write|Edit|MultiEdit|Bash|Shell",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 scripts/hook_entry.py",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

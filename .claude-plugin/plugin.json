@@ -1,0 +1,10 @@
+{
+  "name": "snap",
+  "version": "1.0.0",
+  "description": "Silent Git shadow checkpoints under refs/snap/* before AI coding agent edits.",
+  "author": {
+    "name": "jaxels1"
+  },
+  "license": "MIT",
+  "skills": "./"
+}
